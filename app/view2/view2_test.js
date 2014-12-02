@@ -1,8 +1,8 @@
 'use strict';
 
-describe('myApp.view2 module', function() {
+describe('fedoraAnnotations.view2 module', function() {
 
-  beforeEach(module('myApp.view2'));
+  beforeEach(module('fedoraAnnotations.view2'));
 
   describe('view2 controller', function(){
 
